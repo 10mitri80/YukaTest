@@ -1,0 +1,6 @@
+framework module Pods_Yuka {
+  umbrella header "Pods-Yuka-umbrella.h"
+
+  export *
+  module * { export * }
+}
